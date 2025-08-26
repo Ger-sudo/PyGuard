@@ -1,0 +1,11 @@
+This is an antivirus i built completely in python using watchdog. Give it a try! Also dont expect the best antivirus its litterally puilt in python so yeah thats it!
+
+INSTALLATION
+git clone https://github.com/Ger-sudo/PyGuard.git
+cd PyGuard
+python PyGuard-X Advanced User UI 
+OR 
+python PyGuard User Friendly UI
+(sorry for the long names)
+also you can just download the .pyw files and run them without any complications
+last thing issue this if anybody needs a .exe version THANKS!
